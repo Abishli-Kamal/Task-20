@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CcXOHkvMuQSMc0k/7w7ROtv5g3h2IAONkmhIldUXEzC7BLB35Ul+npm21iODuvAIYiMUZ6VF2HbbrqQIS+LE1Q==",
+  "dgSpecHash": "OO7KZwoe+UKnwMeFP3KnZWn3fNbtI0/k8dkA6maVsXNSIe/AHeO4kG0w5Vz6I17whY3q/QMBNqYsxgNLs3DR3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Task-3\\Task-3\\Task-3.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Tasklar\\Task-3\\Task-3\\Task-3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
   ],
